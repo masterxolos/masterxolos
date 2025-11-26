@@ -2,10 +2,12 @@
 
 # 👋 Hi, I’m Özgür
 
-I am a **Full Stack Developer** based in Istanbul. I am currently working at **Game Actor **, where I build scalable web platforms and backend architectures.
+I am a **Full Stack Developer** based in Istanbul.
 
-👀 **Currently working at:** Game Actor.
-🌱 **Focus:** Backend development, API design, and System Integration (Steam, League of Legends, SOAP, PayTR).
+👀 **Currently working at:** Game Actor  
+
+🌱 **Focus:** Backend development, API design, and System Integration (Steam, Riot Games, SOAP, PayTR).
+
 🔒 **Note:** Due to NDA and security reasons, my commercial projects are not public.
 
 ---
@@ -38,6 +40,7 @@ I am a **Full Stack Developer** based in Istanbul. I am currently working at **G
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Microsoft IIS](https://img.shields.io/badge/IIS-007ACC?style=for-the-badge&logo=iis&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -50,3 +53,17 @@ I am a **Full Stack Developer** based in Istanbul. I am currently working at **G
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white)
+
+---
+
+### 🚀 Portfolio & Showcases
+
+Here are some open-source projects and archived works demonstrating my range:
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Christmas Sticker Pack](https://github.com/masterxolos/Christmas-Sticker-Pack)** | Android app for WhatsApp Stickers (100+ installs on Google Play). | `Java` `Android` |
+| **[Custom Boombox Sound](https://github.com/masterxolos/CustomBoomboxSound)** | A C# Mod for replacing runtime game audio files. | `C#` `Harmony` |
+| **[Fencing Stats App](https://github.com/masterxolos/fencing-stats-showcase)** | Portfolio showcase for a cross-platform sports analysis app. | `React Native` `Expo` |
+
+---
