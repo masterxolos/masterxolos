@@ -51,8 +51,3 @@ I am a **Full Stack Developer** based in Istanbul. I am currently working at **G
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white)
-
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterxolos&layout=compact&theme=radical&hide_border=true" />
-</div>
